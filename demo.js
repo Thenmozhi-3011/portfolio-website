@@ -1,0 +1,1 @@
+console.log("This is a demo script to test the import functionality.");
